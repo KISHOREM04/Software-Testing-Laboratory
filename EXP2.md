@@ -129,15 +129,9 @@ Matrix multiplication is not possible.
 Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should
 be equal to number of rows in matrix ―bl, and rows & columns should be positive integer values. 
 
-
-
-
 ```
-
-
-
-
-
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/9c2b6621-73d5-42d1-af03-ad8d5e835af8)
 
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
