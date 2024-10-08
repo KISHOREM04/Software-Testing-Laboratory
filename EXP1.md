@@ -230,12 +230,12 @@ Null input
 Enter a string: 
 ```
 
-
-
-
-
-
-
+## OUTPUT:
+![ep1](https://github.com/user-attachments/assets/89436853-6707-4c4c-96e9-e578c0a73293)
+![ep2](https://github.com/user-attachments/assets/e7c7e025-d0d8-4d8a-99a0-f5e98ec31b8f)
+![ep3](https://github.com/user-attachments/assets/6e80d4c9-653f-4f3a-a4d3-477e1420441d)
+![ep4](https://github.com/user-attachments/assets/087ab6a6-bf57-4fad-b7c5-85d920dd5367)
+![ep5](https://github.com/user-attachments/assets/84f6e0e9-c0a2-4ec3-9c15-fdb299544bfb)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
